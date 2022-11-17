@@ -2,5 +2,3 @@ opencv-python
 moviepy --ignore-installed imageio
 pandas
 numpy
-pip install scenedetect[opencv] --upgrade
-scenedetect -i video.mp4 detect-content save-images list-scenes
